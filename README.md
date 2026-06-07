@@ -21,14 +21,14 @@ Each file in this repo corresponds to an animation or video produced for the Mat
 
 | File | Description |
 |------|-------------|
-| `Video1.py` | Source code for the first Mathics animation |
+| `Video1.py` | Source code for the first Mathics video |
 
 ---
 
 ## 🛠️ Built With
 
 - [Python 3](https://www.python.org/) — Core language
-- [Manim](https://www.manim.community/) *(if applicable)* — Animation engine for math videos
+- [Manim](https://www.manim.community/)  — Animation engine for math videos 
 
 ---
 
@@ -37,7 +37,7 @@ Each file in this repo corresponds to an animation or video produced for the Mat
 ### Prerequisites
 
 - Python 3.x → https://www.python.org/downloads/
-- Manim *(if used)* → https://docs.manim.community/en/stable/installation.html
+- Manim → https://docs.manim.community/en/stable/installation.html
 
 ### Run a specific animation
 
