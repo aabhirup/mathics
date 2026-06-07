@@ -71,4 +71,4 @@ This project is open source. Feel free to explore and learn from the code!
 
 ---
 
-> *Making advanced math beautiful, one animation at a time.* ✨
+> *Making maths beautiful.* ✨
