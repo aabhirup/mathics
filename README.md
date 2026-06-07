@@ -55,7 +55,6 @@ manim -pql Video1.py SceneName
 ## 📺 Watch on YouTube
 
 All animations from this repo are published on the **Mathics YouTube channel**.  
-👉 Subscribe for more advanced math content with animations!
 
 ---
 
