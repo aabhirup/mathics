@@ -1,32 +1,79 @@
-video1.py
+# 🧮 Mathics
 
+> A Python-based math problem solver and visualizer.
 
+---
 
+## 📌 About
 
+**Mathics** is a Python project that solves mathematical problems and visualizes them in an easy-to-understand way. It is designed to make math more intuitive and accessible through clean visual output.
 
-Question: Finding the value of 'a' where the tangent to C2 at point A meets C1 at point B, given the curves C1: y = x² - 3 and C2: y = kx².
+---
 
-(Competishun Book question)
+## 📁 Project Structure
 
+```
+Mathics/
+│
+└── Video1.py       # Math visualizer — renders and displays math concepts visually
+```
 
+---
 
-Usage
+## 🚀 Getting Started
 
-\-----------------------------------------------------------------------------------------------------
+### Prerequisites
 
-&#x20;   manim -pql video1.py video1        # low quality preview
+Make sure you have **Python 3.x** installed.  
+Download it from: https://www.python.org/downloads/
 
-&#x20;   manim -pqh video1.py video1        # high quality render
+### Installation
 
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/aabhirup/mathics.git
+   cd mathics
+   ```
 
+2. Install any required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+   *(if no requirements.txt exists, skip this step)*
 
-Dependencies
+### Running the Project
 
-\-----------------------------------------------------------------------------------------------------
+```bash
+python Video1.py
+```
 
-Manim Community Edition - A community maintained Python library for creating mathematical animations.
+---
 
+## ✨ Features
 
+- ✅ Solves mathematical problems programmatically
+- ✅ Visualizes math concepts in an easy-to-follow format
+- ✅ Built with Python for simplicity and portability
 
+---
 
+## 🛠️ Built With
 
+- [Python 3](https://www.python.org/) — Core language
+
+---
+
+## 👤 Author
+
+**Aabhirup**  
+GitHub: [@aabhirup](https://github.com/aabhirup)
+
+---
+
+## 📄 License
+
+This project is open source. Feel free to use and modify it.
+
+---
+
+> Made with ❤️ and Python
