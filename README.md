@@ -2,7 +2,7 @@
 
 > A YouTube channel that solves advanced math problems through beautiful animations.
 
-[![YouTube](https://img.shields.io/badge/YouTube-Mathics-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@aabhirup)
+[![YouTube](https://img.shields.io/badge/YouTube-Mathics-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@mathics-as)
 [![GitHub](https://img.shields.io/badge/GitHub-aabhirup-black?style=for-the-badge&logo=github)](https://github.com/aabhirup)
 
 ---
