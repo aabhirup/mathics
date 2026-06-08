@@ -1,13 +1,10 @@
+#Mathics animations for video 2 titled: Solving One of the Toughest Advanced Questions
 from manim import *
 import numpy as np
 
-
-# ---------------------------------------------------------------------------
-# Constants
-# ---------------------------------------------------------------------------
 A, B = 10, 8
-C = np.sqrt(A**2 + B**2)          # c = sqrt(164) = 2*sqrt(41)
-THETA0 = 0.6                       # angle chosen for visual clarity
+C = np.sqrt(A**2 + B**2)          
+THETA0 = 0.6                       
 
 Px = A / np.cos(THETA0)
 Py = B * np.tan(THETA0)
@@ -17,16 +14,14 @@ SLOPE_S1P = Py / (Px + C)
 P1x = C * (TANGENT_SLOPE + SLOPE_S1P) / (TANGENT_SLOPE - SLOPE_S1P)
 P1y = TANGENT_SLOPE * (P1x - C)
 
-# Foot of perpendicular from P onto line SP1
+
 _num = TANGENT_SLOPE * Px - Py - TANGENT_SLOPE * C
 _den = TANGENT_SLOPE**2 + 1
 FOOT_X = Px - TANGENT_SLOPE * _num / _den
 FOOT_Y = Py + _num / _den
 
 
-# ---------------------------------------------------------------------------
-# Scene
-# ---------------------------------------------------------------------------
+
 class ManimCELogo(Scene):
     def construct(self):
         self._add_watermark()
