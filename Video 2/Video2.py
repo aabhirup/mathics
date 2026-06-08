@@ -1,4 +1,4 @@
-#Mathics animations for video 2 titled: Solving One of the Toughest Advanced Questions
+#Mathics animations for video 2 titled: Solving One of the Toughest Advanced Questions jee advanced 2022 
 from manim import *
 import numpy as np
 
