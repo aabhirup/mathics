@@ -1,3 +1,5 @@
+#Thumbnail for video 2 mathics
+
 from manim import *
 class YoutubeThumbnail(Scene):
     def construct(self):
