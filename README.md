@@ -22,6 +22,8 @@ Each file in this repo corresponds to an animation or video produced for the Mat
 | File | Description |
 |------|-------------|
 | `Video1.py` | Source code for the first Mathics video |
+| `Video2.py` | Source code for the second Mathics video |
+
 
 ---
 
